@@ -39,5 +39,10 @@
 	</classpathentry>
 	<classpathentry kind="lib" path="C:/Users/win 10/Downloads/IEDriverServer_Win32_3.141.0.zip"/>
 	<classpathentry kind="lib" path="C:/Users/win 10/Downloads/chromedriver-win64.zip"/>
+	<classpathentry kind="lib" path="C:/Users/win 10/Downloads/chromedriver-win64 (1).zip"/>
+	<classpathentry kind="lib" path="C:/Users/win 10/Downloads/geckodriver-v0.33.0-win64 (1).zip"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/win 10/Downloads/ojdbc11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/win 10/Downloads/jre-8u391-windows-x64.exe"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
